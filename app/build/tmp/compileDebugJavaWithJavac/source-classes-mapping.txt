@@ -1,0 +1,2 @@
+com/demo/hangquynhshopdoll/BuildConfig.java
+ com.demo.hangquynhshopdoll.BuildConfig

@@ -1,0 +1,212 @@
+[
+  {
+    "name":"Gấu Bông Việt Nam",
+    "address":"99 Nguyễn Hoàng, khexong thị trấn krông-klang Đakrông",
+    "delivery_charge": 5,
+    "image":"https://nguyendangtam.com/wp-content/uploads/2019/12/heo-map-tik-tok-dang-yeu-de-thuong-ngho-nghinh-hinh-nen-chibi-2020-14-1024x683.jpg",
+
+    "hours":{
+      "Sunday":"11:00 Trưa - 7:00 Sáng",
+      "Monday":"10:00 Trưa - 9:00 Sáng",
+      "Tuesday":"10:00 Trưa - 7:00 Sáng",
+      "Wednesday":"10:00 Trưa - 8:00 Sáng",
+      "Thursday":"10:00 Trưa - 7:00 Sáng",
+      "Friday":"10:00 Trưa - 9:00 Sáng",
+      "Saturday":"10:00 Trưa- 9:00 Sáng"
+    },
+    "menus": [
+      {
+        "name": " Gấu Hatala",
+        "price": 100.0,
+        "url": "https://ngoinhagaubong.com/wp-content/uploads/2019/12/12102831812_988005209.jpg"
+      },
+      {
+        "name": " Gấu Alada",
+        "price": 100.0,
+        "url": "https://tse2.mm.bing.net/th?id=OIP.c7Dbl-rHhruBk8-Y9XyroQHaHa&pid=Api&P=0&w=300&h=300"
+      },
+      {
+        "name": "Gấu Pada",
+        "price": 400.0,
+        "url": "https://thubongthiennga.com/uploads/shops/12-2020/thu-bong-heo-khung-long.png"
+      },
+      {
+        "name": "Gấu Qutuha",
+        "price": 500.0,
+        "url": "https://hazomi.com/wp-content/uploads/2020/10/087ccc7c044071f3ff278abc6d828f11.jpg"
+      },
+      {
+        "name": "Gấu Tadala",
+        "price": 400.0,
+        "url": "https://ngoinhagaubong.com/wp-content/uploads/2019/12/IMG_E1587.jpg"
+      },
+      {
+        "name": "Gấu Haha",
+        "price": 300.0,
+        "url": "https://cf.shopee.vn/file/4a8dc199d4060f81e1f25068807040fb_tn"
+      },
+      {
+        "name": "Gấu Lola",
+        "price": 500.0,
+        "url": "http://thostore.com/uploads/post/1160265771773.jpg"
+      },
+      {
+        "name": "Gấu Potoro",
+        "price": 300.0,
+        "url": "http://bizweb.dktcdn.net/100/075/840/files/screen-shot-2016-06-11-at-9-37-26-pm.png?v=1465656202598"
+      }
+    ]
+  },
+  {
+    "name":"Gấu Bông Đà Nẵng",
+    "address":"99 Tô Hiến Thành",
+    "delivery_charge": 4,
+    "image":"https://img1.kienthucvui.vn/uploads/2021/01/13/anh-gau-bong-heo-trai-cay-de-thuong_030010181.jpg",
+    "hours":{
+      "Sunday":"11:00 Trưa - 7:00 Sáng",
+      "Monday":"10:00 Trưa - 9:00 Sáng",
+      "Tuesday":"10:00 Trưa - 7:00 Sáng",
+      "Wednesday":"10:00 Trưa - 8:00 Sáng",
+      "Thursday":"10:00 Trưa - 7:00 Sáng",
+      "Friday":"10:00 Trưa - 9:00 Sáng",
+      "Saturday":"10:00 Trưa- 9:00 Sáng"
+    },
+    "menus": [
+      {
+        "name": "Gấu Hot",
+        "price": 200.0,
+        "url": "https://i.pinimg.com/originals/36/6d/40/366d40b8c1c0b05471b0bd83e2a3ce30.jpg"
+      },
+      {
+        "name": "Gấu Moto",
+        "price": 300.0,
+        "url": "https://ngoinhagaubong.com/wp-content/uploads/2020/01/12765942054_625194443-copy-500x500.jpg"
+      },
+      {
+        "name": "Gấu Atoma",
+        "price": 500.0,
+        "url": "https://teddy.vn/wp-content/uploads/2019/09/meo-mat-to-ngoi-8.jpg"
+      },
+      {
+        "name": "Gấu anata",
+        "price": 200.0,
+        "url": "https://cf.shopee.vn/file/6a2825fbe537735504727ddcf1e7e4c3"
+
+      },
+      {
+        "name": "Gấu Mhake",
+        "price": 300.0,
+        "url": "https://file.hstatic.net/1000203256/file/gau-bong-goi-om-heo-tron-hong-u__11__422a8351e26144ff8781867dfcf2dc0c_grande.jpg"
+      },
+      {
+        "name": "Gấu Shake",
+        "price": 400.0,
+        "url": "https://thuthuatnhanh.com/wp-content/uploads/2020/03/hinh-anh-gau-bong-lon-con-un-in.jpg"
+      },
+      {
+        "name": "Gấu aya",
+        "price": 300.0,
+        "url": "https://tse3.mm.bing.net/th?id=OIP.pQhXupSjB4PYNB0545KlZwHaHa&pid=Api&P=0&w=300&h=300"
+      },
+      {
+        "name": "Gấu EMt",
+        "price": 500.0,
+        "url": "https://tse2.mm.bing.net/th?id=OIP.c7Dbl-rHhruBk8-Y9XyroQHaHa&pid=Api&P=0&w=300&h=300"
+      }
+    ]
+  },
+  {
+    "name":"Gấu Quảng trị",
+    "address":"99 Nguyễn Hoàng, khexong thị trấn krông-klang Đakrông ",
+    "delivery_charge": 5,
+    "image":"https://img1.kienthucvui.vn/uploads/2021/01/13/anh-gau-bong-mac-ao-len-i-love-you_030011341.jpg",
+    "hours":{
+      "Sunday":"11:00 Trưa - 7:00 Sáng",
+      "Monday":"10:00 Trưa - 9:00 Sáng",
+      "Tuesday":"10:00 Trưa - 7:00 Sáng",
+      "Wednesday":"10:00 Trưa - 8:00 Sáng",
+      "Thursday":"10:00 Trưa - 7:00 Sáng",
+      "Friday":"10:00 Trưa - 9:00 Sáng",
+      "Saturday":"10:00 Trưa- 9:00 Sáng"
+    },
+    "menus": [
+      {
+        "name": "Gấu tate",
+        "price": 400.0,
+        "url": "https://i.pinimg.com/originals/8f/1e/e2/8f1ee2bb4a1f7e8d365f1a2c4b6753c8.jpg"
+      },
+      {
+        "name": "Gấu Oke",
+        "price": 300.0,
+        "url": "https://giupban.com.vn/wp-content/uploads/2019/09/hinh-anh-gau-bong.jpg"
+      },
+      {
+        "name": "Gấu Fish",
+        "price": 500.0,
+        "url": "https://tse2.mm.bing.net/th?id=OIP.ERxSJWblUZ-0FxIkEMWtlAHaHa&pid=Api&P=0&w=300&h=300"
+      },
+      {
+        "name": "Gấu auto",
+        "price": 300.0,
+        "url": "https://roosam.com/hinh-nen-gau-bong-de-thuong-cho-dien-thoai/imager_23_4574_700.jpg"
+      },
+      {
+        "name": "Gấu Combo ",
+        "price": 800.0,
+        "url": "https://thuthuatnhanh.com/wp-content/uploads/2020/03/hinh-anh-gau-truc-bong-cute-de-thuong.jpg"
+      },
+      {
+        "name": "Gấu Meal",
+        "price": 600.0,
+        "url": "https://anh.quatructuyen.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/t/h/tho-bong-metoo_1_.jpg"
+      }
+    ]
+  },
+  {
+    "name":"Gấu Gấu",
+    "address":"101B Lê Hữu Trác",
+    "delivery_charge": 6,
+    "image":"https://roosam.com/hinh-nen-gau-bong-de-thuong-cho-dien-thoai/imager_6_4574_700.jpg",
+    "hours":{
+      "Sunday":"11:00 Trưa - 7:00 Sáng",
+      "Monday":"10:00 Trưa - 9:00 Sáng",
+      "Tuesday":"10:00 Trưa - 7:00 Sáng",
+      "Wednesday":"10:00 Trưa - 8:00 Sáng",
+      "Thursday":"10:00 Trưa - 7:00 Sáng",
+      "Friday":"10:00 Trưa - 9:00 Sáng",
+      "Saturday":"10:00 Trưa- 9:00 Sáng"
+    },
+    "menus": [
+      {
+        "name": "Gấu wow",
+        "price": 400.0,
+        "url": "http://nicegiftvn.com.vn/data/nicegiftvn.com.vn/gaubongstick.png"
+      },
+      {
+        "name": "Gấu lucky",
+        "price": 300.0,
+        "url": "https://tophaynhat.com/wp-content/uploads/2020/09/unnamed-file-201.jpg"
+      },
+      {
+        "name": "Gấu PenHouse",
+        "price": 500.0,
+        "url": "https://tse4.mm.bing.net/th?id=OIP.5h48HD3iV2iQlIFh9r9szgHaJ4&pid=Api&P=0&w=300&h=300"
+      },
+      {
+        "name": "Gấu games",
+        "price": 300.0,
+        "url": "https://cf.shopee.vn/file/247c7b67dbfd6967359f4bfd26df5cb0"
+      },
+      {
+        "name": "Gấu Aoo ",
+        "price": 800.0,
+        "url": "http://quatructuyen.com/wp-content/uploads/2016/09/gau-bong-pikachu-2.jpg"
+      },
+      {
+        "name": "Gấu anona",
+        "price": 100.0,
+        "url": "https://gaubongonline.com.vn/wp-content/uploads/2020/06/1.jpg"
+      }
+    ]
+  }
+]

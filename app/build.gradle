@@ -8,7 +8,7 @@ android {
     compileSdk 30
 
     defaultConfig {
-        applicationId "com.demo.foodorderanddeliveryappkotlin"
+        applicationId 'com.demo.hangquynhshopdoll'
         minSdk 24
         targetSdk 30
         versionCode 1
@@ -31,6 +31,8 @@ android {
         jvmTarget = '11'
     }
 }
+
+
 
 dependencies {
 

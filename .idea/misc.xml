@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/activity_main.xml" value="0.3269927536231884" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/activity_place_your_order.xml" value="0.3269927536231884" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/activity_restaurant_menu.xml" value="0.1" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/activity_splash.xml" value="0.20520833333333333" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/activity_success_order.xml" value="0.3269927536231884" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/menu_list_row.xml" value="0.3496376811594203" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/placeyourorder_list_row.xml" value="0.3496376811594203" />
+        <entry key="..\:/FoodAppInKotlin/app/src/main/res/layout/recycler_restautant_list_row.xml" value="0.3496376811594203" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/drawable/ic_splash.xml" value="0.16018518518518518" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/activity_main.xml" value="0.21195652173913043" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/activity_place_your_order.xml" value="0.14583333333333334" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/activity_restaurant_menu.xml" value="0.14583333333333334" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/activity_splash.xml" value="0.14583333333333334" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/activity_success_order.xml" value="0.3359375" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/menu_list_row.xml" value="0.21195652173913043" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/placeyourorder_list_row.xml" value="0.21195652173913043" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/layout/recycler_restautant_list_row.xml" value="0.11322463768115942" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2" />
+        <entry key="..\:/finalPr/FoodAppInKotlin/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

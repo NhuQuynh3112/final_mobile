@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\layout_cac_loai_gau_bong.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\layout\\cac_loai_gau_bong.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_remove_circle.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\drawable\\ic_remove_circle.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\layout_danh_sach_gau_bong.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\layout\\danh_sach_gau_bong.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\layout_anh_nen.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\layout\\anh_nen.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\raw_bear.json.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\raw\\bear.json"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_add_circle.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\drawable\\ic_add_circle.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\layout_nut_gio_hang.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\layout\\nut_gio_hang.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\drawable_button_bg.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\layout_chi_tiet_gau_bong.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\layout\\chi_tiet_gau_bong.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\drawable_bear.png.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\drawable\\bear.png"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\finalPr\\HangQuynhShopDoll\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\finalPr\\HangQuynhShopDoll\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]
